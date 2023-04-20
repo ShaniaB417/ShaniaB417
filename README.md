@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShaniaB417
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 https://www.linkedin.com/in/shania-brown-9b368023b
 <!---
