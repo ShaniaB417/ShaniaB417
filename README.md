@@ -9,12 +9,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A Developer commitmented to contributing to the ever-expanding frontier of technology.</h3>
 
 - 🔭 I’m currently working on [Sole Swap](https://github.com/ShaniaB417/Sole-Swap)
-
+-  Im also working on 💻 [Day at the Park](https://github.com/ShaniaB417/Day-At-The-Park-)
 - 🌱 I’m currently learning **Firebase, Unity, XR Development**
-
-- Im also working on 💻 [Day at the Park](https://github.com/ShaniaB417/Day-At-The-Park-)
-
 - 📫 How to reach me **browsj2@farmingdale.edu**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
