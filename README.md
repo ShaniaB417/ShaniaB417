@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 https://www.linkedin.com/in/shania-brown-9b368023b
 
-<figure><embed src="https://wakatime.com/share/@ShaniaB417/6040a8e7-9eb1-4335-a8fe-6dcf26ff1dad.svg"></embed></figure>
+
 
 
 [![Shania's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShaniaB417)](https://github.com/anuraghazra/github-readme-stats)
