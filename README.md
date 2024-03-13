@@ -5,7 +5,7 @@
 ShaniaB417/ShaniaB417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Shania</h1>
+<h1 align="center">Hi 👋🏾, I'm Shania</h1>
 <h3 align="center">A Developer commitmented to contributing to the ever-expanding frontier of technology.</h3>
 
 - 🔭 I’m currently working on [Sole Swap](https://github.com/ShaniaB417/Sole-Swap)
