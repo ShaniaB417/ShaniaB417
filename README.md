@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaniab417&label=Profile%20views&color=0e75b6&style=flat" alt="shaniab417" /> 
 
-- 🌱 I’m currently learning **Unity, XR Development, Blender**
+- 🌱 I’m currently learning **Unreal Engine, XR Development, Blender**
 - 📫 How to reach me **browsj2@farmingdale.edu**
 
 <h3 align="left">Connect with me:</h3>
